@@ -1,0 +1,290 @@
+MGI Gene/Marker ID,Symbol,Name,Chr,Qualifier,Annotated Term,Context,Proteoform,Evidence,Inferred From,Reference(s)
+MGI:2443582,Abat,4-aminobutyrate aminotransferase,16,,response to hypoxia,,,ISO,RGD:620948 ,J:155856 
+MGI:1098623,Acaa2,acetyl-Coenzyme A acyltransferase 2 (mitochondrial 3-oxoacyl-Coenzyme A thiolase),18,,cellular response to hypoxia,,,ISO,P42765 ,J:164563 
+MGI:2159605,Acot2,acyl-CoA thioesterase 2,12,,response to hypoxia,,,ISO,RGD:621055 ,J:155856 
+MGI:87916,Ada,adenosine deaminase,2,,response to hypoxia,,,ISO,RGD:2031 ,J:155856 
+MGI:87916,Ada,adenosine deaminase,2,,response to hypoxia,,,ISO,P00813 ,J:164563 
+MGI:107825,Adam8,a disintegrin and metallopeptidase domain 8,7,,cellular response to hypoxia,,,ISO,P78325 ,J:164563 
+MGI:1096335,Adam17,a disintegrin and metallopeptidase domain 17,12,,response to hypoxia,,,ISO,P78536 ,J:164563 
+MGI:99401,Adora1,adenosine A1 receptor,1,,response to hypoxia,,,ISO,RGD:2048 ,J:155856 
+MGI:87938,Adrb2,"adrenergic receptor, beta 2",18,,cellular response to hypoxia,,,ISO,RGD:2060 ,J:155856 
+MGI:893592,Ager,advanced glycosylation end product-specific receptor,17,,response to hypoxia,happens in aortic endothelial cell,,IMP,MGI:2451038 ,J:149031 
+MGI:1341886,Ajuba,ajuba LIM protein,14,,regulation of cellular response to hypoxia,,,ISO,Q96IF1 ,J:164563 
+MGI:1341886,Ajuba,ajuba LIM protein,14,,response to hypoxia,,,IBA,PTN001198456 ,J:265628 
+MGI:1341886,Ajuba,ajuba LIM protein,14,,response to hypoxia,,,ISO,Q96IF1 ,J:164563 
+MGI:87979,Ak4,adenylate kinase 4,4,,cellular response to hypoxia,,,ISO,P27144 ,J:164563 
+MGI:87986,Akt1,thymoma viral proto-oncogene 1,12,,cellular response to hypoxia,,,ISO,RGD:2081 ,J:155856 
+MGI:87989,Alas1,aminolevulinic acid synthase 1,9,,response to hypoxia,,,IBA,PTN000343737 ,J:265628 
+MGI:87990,Alas2,"aminolevulinic acid synthase 2, erythroid",X,,response to hypoxia,,,IBA,PTN000343737 ,J:265628 
+MGI:87990,Alas2,"aminolevulinic acid synthase 2, erythroid",X,,response to hypoxia,,,ISO,P22557 ,J:164563 
+MGI:1353451,Aldh3a1,"aldehyde dehydrogenase family 3, subfamily A1",11,,response to hypoxia,,,ISO,RGD:2088 ,J:155856 
+MGI:2144489,Alkbh5,"alkB homolog 5, RNA demethylase",11,,response to hypoxia,,,ISO,Q6P6C2 ,J:164563 
+MGI:88022,Ang,"angiogenin, ribonuclease, RNase A family, 5",14,,response to hypoxia,,,ISO,P03950 ,J:164563 
+MGI:103201,Aqp1,aquaporin 1,6,,cellular response to hypoxia,,,ISO,P29972 ,J:164563 
+MGI:1333777,Aqp3,aquaporin 3,4,,cellular response to hypoxia,,,ISO,Q92482 ,J:206664 
+MGI:88071,Arnt,aryl hydrocarbon receptor nuclear translocator,3,,response to hypoxia,,,IDA,,J:35141 
+MGI:88071,Arnt,aryl hydrocarbon receptor nuclear translocator,3,,response to hypoxia,,,ISO,P27540 ,J:164563 
+MGI:107188,Arnt2,aryl hydrocarbon receptor nuclear translocator 2,7,,response to hypoxia,,,ISO,Q9HBZ2 ,J:164563 
+MGI:107188,Arnt2,aryl hydrocarbon receptor nuclear translocator 2,7,,response to hypoxia,,,TAS,,J:81291 
+MGI:107202,Atm,ataxia telangiectasia mutated,9,,response to hypoxia,,,ISO,RGD:1593265 ,J:155856 
+MGI:88108,Atp1b1,"ATPase, Na+/K+ transporting, beta 1 polypeptide",1,,response to hypoxia,,,ISO,RGD:2170 ,J:155856 
+MGI:894680,Bach1,"BTB and CNC homology 1, basic leucine zipper transcription factor 1",16,,regulation of transcription from RNA polymerase II promoter in response to hypoxia,,,ISO,O14867 ,J:164563 
+MGI:1096330,Bad,BCL2-associated agonist of cell death,19,,cellular response to hypoxia,,,IBA,PTN002004008 ,J:265628 
+MGI:88138,Bcl2,B cell leukemia/lymphoma 2,1,,cellular response to hypoxia,,,IDA,,J:29779 
+MGI:1197009,Birc2,baculoviral IAP repeat-containing 2,9,,response to hypoxia,,,ISO,RGD:620690 ,J:155856 
+MGI:88177,Bmp2,bone morphogenetic protein 2,2,,response to hypoxia,,,IMP,MGI:1857894 ,J:157651 
+MGI:109326,Bnip3,BCL2/adenovirus E1B interacting protein 3,7,,cellular response to hypoxia,,,ISO,Q12983 ,J:73065 
+MGI:109326,Bnip3,BCL2/adenovirus E1B interacting protein 3,7,,intrinsic apoptotic signaling pathway in response to hypoxia,,,ISO,Q12983 ,J:164563 
+MGI:109326,Bnip3,BCL2/adenovirus E1B interacting protein 3,7,,response to hypoxia,,,ISO,RGD:620800 ,J:155856 
+MGI:1332659,Bnip3l,BCL2/adenovirus E1B interacting protein 3-like,14,,cellular response to hypoxia,,,ISO,O60238 ,J:73065 
+MGI:1341265,Camk2d,"calcium/calmodulin-dependent protein kinase II, delta",3,,response to hypoxia,,,ISO,RGD:2263 ,J:155856 
+MGI:88259,Camk2g,calcium/calmodulin-dependent protein kinase II gamma,14,,response to hypoxia,,,ISO,RGD:621802 ,J:155856 
+MGI:96544,Casp1,caspase 1,9,,response to hypoxia,,,IMP,MGI:1927822 ,J:88212 
+MGI:96544,Casp1,caspase 1,9,,response to hypoxia,,,ISO,RGD:2274 ,J:155856 
+MGI:88271,Cat,catalase,2,,response to hypoxia,,,ISO,RGD:2279 ,J:155856 
+MGI:102709,Cav1,"caveolin 1, caveolae protein",6,,response to hypoxia,happens in leg blood vessel,,IMP,MGI:2154537 ,J:122233 
+MGI:1338013,Cbfa2t3,CBFA2/RUNX1 translocation partner 3,8,,response to hypoxia,,,ISO,O75081 ,J:164563 
+MGI:88285,Cbs,cystathionine beta-synthase,17,,cellular response to hypoxia,,,ISO,RGD:2287 ,J:155856 
+MGI:88323,Cd24a,CD24a antigen,10,,response to hypoxia,,,ISS,P25063 ,J:125599 
+MGI:88329,Cd34,CD34 antigen,1,,negative regulation of cellular response to hypoxia,,,ISO,P28906 ,J:164563 
+MGI:107474,Cd38,CD38 antigen,5,,response to hypoxia,,,ISO,RGD:2303 ,J:155856 
+MGI:1261428,Chchd2,coiled-coil-helix-coiled-coil-helix domain containing 2,5,,regulation of cellular response to hypoxia,,,ISO,Q9Y6H1 ,J:164563 
+MGI:87888,Chrna4,"cholinergic receptor, nicotinic, alpha polypeptide 4",2,,response to hypoxia,,,ISO,P43681 ,J:164563 
+MGI:99779,Chrna7,"cholinergic receptor, nicotinic, alpha polypeptide 7",7,,response to hypoxia,,,ISO,P36544 ,J:164563 
+MGI:87891,Chrnb2,"cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)",3,,response to hypoxia,,,IMP,MGI:1926253 ,J:102005 
+MGI:87891,Chrnb2,"cholinergic receptor, nicotinic, beta polypeptide 2 (neuronal)",3,,response to hypoxia,,,ISO,P17787 ,J:164563 
+MGI:1914813,Ciao3,cytosolic iron-sulfur assembly component 3,17,,response to hypoxia,,,ISO,Q9H6Q4 ,J:164563 
+MGI:1306784,Cited2,"Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2",10,,negative regulation of transcription from RNA polymerase II promoter in response to hypoxia,,,ISO,Q99967 ,J:164563 
+MGI:1306784,Cited2,"Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2",10,,response to hypoxia,,,ISO,Q99967 ,J:164563 
+MGI:1306784,Cited2,"Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2",10,,response to hypoxia,,,ISS,Q99967-1 ,J:52216 
+MGI:109474,Commd1,COMM domain containing 1,11,,negative regulation of hypoxia-inducible factor-1alpha signaling pathway,,,IMP,MGI:3714157 ,J:122208 
+MGI:108442,Cpeb1,cytoplasmic polyadenylation element binding protein 1,7,,cellular response to hypoxia,,,IDA,,J:204958 
+MGI:108442,Cpeb1,cytoplasmic polyadenylation element binding protein 1,7,,cellular response to hypoxia,,,ISO,Q9BZB8 ,J:164563 
+MGI:2442640,Cpeb2,cytoplasmic polyadenylation element binding protein 2,5,,cellular response to hypoxia,,,IDA,,J:204958 
+MGI:2442640,Cpeb2,cytoplasmic polyadenylation element binding protein 2,5,,cellular response to hypoxia,,,ISO,Q7Z5Q1 ,J:164563 
+MGI:88513,Cr1l,complement component (3b/4b) receptor 1-like,1,,cellular response to hypoxia,,,IDA,,J:163254 
+MGI:88498,Crhr1,corticotropin releasing hormone receptor 1,11,,response to hypoxia,,,ISO,RGD:61276 ,J:155856 
+MGI:88515,Cryaa,"crystallin, alpha A",17,,response to hypoxia,,,IMP,MGI:1858025 ,J:132494 
+MGI:88516,Cryab,"crystallin, alpha B",9,,response to hypoxia,,,IMP,MGI:2652177 ,J:132494 
+MGI:88574,Cybb,"cytochrome b-245, beta polypeptide",X,,hypoxia-inducible factor-1alpha signaling pathway,,,ISO,RGD:620574 ,J:155856 
+MGI:1916469,Ddah1,dimethylarginine dimethylaminohydrolase 1,3,,negative regulation of cellular response to hypoxia,,,ISO,O94760 ,J:164563 
+MGI:1921997,Ddit4,DNA-damage-inducible transcript 4,10,,response to hypoxia,,,IBA,PTN002647592 ,J:265628 
+MGI:1921997,Ddit4,DNA-damage-inducible transcript 4,10,,response to hypoxia,,,IMP,,J:131386 
+MGI:1921997,Ddit4,DNA-damage-inducible transcript 4,10,,response to hypoxia,,,ISO,RGD:621731 ,J:155856 
+MGI:1921997,Ddit4,DNA-damage-inducible transcript 4,10,,response to hypoxia,,,ISO,Q9NX09 ,J:164563 
+MGI:94919,Dpp4,dipeptidylpeptidase 4,2,,response to hypoxia,,,ISO,P27487 ,J:164563 
+MGI:94924,Drd2,dopamine receptor D2,9,,response to hypoxia,,,ISO,RGD:2520 ,J:155856 
+MGI:1101357,Ece1,endothelin converting enzyme 1,4,,response to hypoxia,,,ISO,RGD:620293 ,J:155856 
+MGI:95283,Edn1,endothelin 1,13,,response to hypoxia,,,IMP,MGI:1857637 ,J:34053 J:40912 
+MGI:105923,Ednra,endothelin receptor type A,8,,response to hypoxia,,,IMP,MGI:1857473 ,J:46639 
+MGI:1932286,Egln1,egl-9 family hypoxia-inducible factor 1,8,,cellular response to hypoxia,,,IBA,PTN004393218 ,J:265628 
+MGI:1932286,Egln1,egl-9 family hypoxia-inducible factor 1,8,,response to hypoxia,,,ISO,RGD:631375 ,J:155856 
+MGI:1932286,Egln1,egl-9 family hypoxia-inducible factor 1,8,,response to hypoxia,,,ISO,Q9GZT9 ,J:164563 
+MGI:1932287,Egln2,egl-9 family hypoxia-inducible factor 2,7,,cellular response to hypoxia,,,IBA,PTN004393218 ,J:265628 
+MGI:1932287,Egln2,egl-9 family hypoxia-inducible factor 2,7,,response to hypoxia,,,ISO,Q96KS0 ,J:164563 
+MGI:1932288,Egln3,egl-9 family hypoxia-inducible factor 3,12,,cellular response to hypoxia,,,IBA,PTN004393218 ,J:265628 
+MGI:95295,Egr1,early growth response 1,18,,regulation of transcription from RNA polymerase II promoter in response to hypoxia,happens in aortic endothelial cell,,IDA,,J:149031 
+MGI:95295,Egr1,early growth response 1,18,,response to hypoxia,,,IMP,,J:66141 
+MGI:103267,Eif4ebp1,eukaryotic translation initiation factor 4E binding protein 1,8,,cellular response to hypoxia,,,ISO,RGD:620259 ,J:155856 
+MGI:95392,Eng,endoglin,2,,detection of hypoxia,,,ISO,P17813 ,J:164563 
+MGI:95392,Eng,endoglin,2,,response to hypoxia,,,ISO,P17813 ,J:164563 
+MGI:1276116,Ep300,E1A binding protein p300,15,,response to hypoxia,,,ISO,Q09472 ,J:164563 
+MGI:1276116,Ep300,E1A binding protein p300,15,,response to hypoxia,,,ISS,Q09472 ,J:156233 
+MGI:109169,Epas1,endothelial PAS domain protein 1,17,,cellular response to hypoxia,,,IBA,PTN000548864 ,J:265628 
+MGI:109169,Epas1,endothelial PAS domain protein 1,17,,cellular response to hypoxia,,,ISO,Q99814 ,J:164563 
+MGI:109169,Epas1,endothelial PAS domain protein 1,17,,response to hypoxia,happens in metanephros,,IMP,MGI:1861921 ,J:98454 
+MGI:109169,Epas1,endothelial PAS domain protein 1,17,,response to hypoxia,,,ISO,RGD:68404 ,J:155856 
+MGI:109169,Epas1,endothelial PAS domain protein 1,17,,response to hypoxia,,,ISO,Q99814 ,J:75462 
+MGI:95407,Epo,erythropoietin,5,,response to hypoxia,,,IDA,,J:90918 
+MGI:95479,Fabp1,"fatty acid binding protein 1, liver",6,,cellular response to hypoxia,,,ISO,P07148 ,J:164563 
+MGI:1917436,Fam162a,"family with sequence similarity 162, member A",16,,cellular response to hypoxia,,,IBA,PTN002671238 ,J:265628 
+MGI:1917436,Fam162a,"family with sequence similarity 162, member A",16,,cellular response to hypoxia,,,IDA,,J:183968 
+MGI:1917436,Fam162a,"family with sequence similarity 162, member A",16,,cellular response to hypoxia,,,ISO,RGD:1590883 ,J:155856 
+MGI:1917436,Fam162a,"family with sequence similarity 162, member A",16,,cellular response to hypoxia,,,ISO,Q96A26 ,J:164563 
+MGI:95558,Flt1,FMS-like tyrosine kinase 1,5,,response to hypoxia,,,IMP,MGI:1857717 ,J:204805 
+MGI:1859252,Fmn2,formin 2,1,,cellular response to hypoxia,,,ISO,Q9NZ56 ,J:164563 
+MGI:1915905,Fndc1,fibronectin type III domain containing 1,17,,cellular response to hypoxia,,,ISO,Q2Q0I9 ,J:156343 
+MGI:102858,Fosl2,fos-like antigen 2,5,,response to hypoxia,,,ISO,RGD:2628 ,J:155856 
+MGI:1919268,Fundc1,FUN14 domain containing 1,X,,response to hypoxia,,,ISO,Q8IVP5 ,J:164563 J:185082 
+MGI:107516,Gata6,GATA binding protein 6,18,,cellular response to hypoxia,,,ISO,Q92908 ,J:164563 
+MGI:95781,Gnb1,"guanine nucleotide binding protein (G protein), beta 1",4,,cellular response to hypoxia,,,ISO,P54311 ,J:156343 
+MGI:109165,Gngt1,"guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1",6,,cellular response to hypoxia,,,ISO,D4AAI1 ,J:156343 
+MGI:95821,Grin2b,"glutamate receptor, ionotropic, NMDA2B (epsilon 2)",6,,response to hypoxia,,,ISO,RGD:2738 ,J:155856 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,cellular response to hypoxia,,,IBA,PTN000548864 ,J:265628 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,cellular response to hypoxia,,,IGI,MGI:101884 MGI:2676890 MGI:3618742 ,J:203819 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,cellular response to hypoxia,,,ISO,RGD:61928 ,J:155856 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,cellular response to hypoxia,,,ISO,Q16665 ,J:164563 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,hypoxia-inducible factor-1alpha signaling pathway,,,IDA,,J:12228 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,positive regulation of transcription from RNA polymerase II promoter in response to hypoxia,,,ISO,Q16665 ,J:164563 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,response to hypoxia,,,IDA,,J:35141 J:74294 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,response to hypoxia,,,IGI,MGI:96552 ,J:121261 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,response to hypoxia,,,IMP,MGI:1857719 ,J:53389 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,response to hypoxia,happens in carotid body,,IMP,MGI:1857719 ,J:73981 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,response to hypoxia,,,IMP,MGI:2385358 ,J:48084 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,response to hypoxia,,,IMP,MGI:2386679 ,J:148996 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,response to hypoxia,,,ISO,RGD:61928 ,J:155856 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,response to hypoxia,,,ISO,Q16665 ,J:75462 J:164563 
+MGI:2442345,Hif1an,"hypoxia-inducible factor 1, alpha subunit inhibitor",19,,negative regulation of transcription from RNA polymerase II promoter in response to hypoxia,,,IBA,PTN000967060 ,J:265628 
+MGI:2442345,Hif1an,"hypoxia-inducible factor 1, alpha subunit inhibitor",19,,negative regulation of transcription from RNA polymerase II promoter in response to hypoxia,,,ISO,Q9NWT6 ,J:164563 
+MGI:1859778,Hif3a,"hypoxia inducible factor 3, alpha subunit",7,,cellular response to hypoxia,,,IBA,PTN000548864 ,J:265628 
+MGI:1859778,Hif3a,"hypoxia inducible factor 3, alpha subunit",7,,response to hypoxia,,,IDA,,J:62516 
+MGI:1930666,Higd1a,"HIG1 domain family, member 1A",9,,cellular response to hypoxia,,,IDA,,J:111830 J:180719 
+MGI:1930666,Higd1a,"HIG1 domain family, member 1A",9,,cellular response to hypoxia,,,IMP,,J:222038 
+MGI:96163,Hmox1,heme oxygenase 1,8,,response to hypoxia,,,ISO,RGD:2806 ,J:155856 
+MGI:109373,Hmox2,heme oxygenase 2,16,,response to hypoxia,,,ISO,P30519 ,J:164563 
+MGI:109369,Hp1bp3,"heterochromatin protein 1, binding protein 3",4,,cellular response to hypoxia,,,ISO,Q5SSJ5 ,J:164563 
+MGI:98817,Hsp90b1,"heat shock protein 90, beta (Grp94), member 1",10,,response to hypoxia,,,ISO,P14625 ,J:164563 
+MGI:108030,Hyou1,hypoxia up-regulated 1,9,,cellular response to hypoxia,,,IBA,PTN000452651 ,J:265628 
+MGI:108030,Hyou1,hypoxia up-regulated 1,9,,cellular response to hypoxia,,,ISO,Q9Y4L1 ,J:164563 
+MGI:108030,Hyou1,hypoxia up-regulated 1,9,,negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway,,,IBA,PTN000452651 ,J:265628 
+MGI:108030,Hyou1,hypoxia up-regulated 1,9,,negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway,,,ISO,RGD:621146 ,J:155856 
+MGI:108030,Hyou1,hypoxia up-regulated 1,9,,negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway,,,ISO,Q9Y4L1 ,J:164563 
+MGI:108030,Hyou1,hypoxia up-regulated 1,9,,response to hypoxia,,,ISO,RGD:621146 ,J:155856 
+MGI:96552,Il3,interleukin 3,11,,response to hypoxia,,,IGI,MGI:106918 ,J:121261 
+MGI:107936,Il18,interleukin 18,9,,response to hypoxia,,,ISO,RGD:2889 ,J:155856 
+MGI:96623,Itpr1,"inositol 1,4,5-trisphosphate receptor 1",6,,response to hypoxia,,,IDA,,J:145985 
+MGI:96623,Itpr1,"inositol 1,4,5-trisphosphate receptor 1",6,,response to hypoxia,,,ISO,Q14643 ,J:164563 
+MGI:99418,Itpr2,"inositol 1,4,5-triphosphate receptor 2",6,,response to hypoxia,,,ISO,Q14571 ,J:164563 
+MGI:102663,Kcnd2,"potassium voltage-gated channel, Shal-related family, member 2",6,,cellular response to hypoxia,,,ISO,RGD:68393 ,J:155856 
+MGI:109366,Kcnk2,"potassium channel, subfamily K, member 2",1,,positive regulation of cellular response to hypoxia,,,ISO,RGD:621448 ,J:155856 
+MGI:1100509,Kcnk3,"potassium channel, subfamily K, member 3",5,,cellular response to hypoxia,,,ISO,RGD:61997 ,J:155856 
+MGI:99923,Kcnma1,"potassium large conductance calcium-activated channel, subfamily M, alpha member 1",14,,response to hypoxia,,,IDA,,J:104394 
+MGI:99923,Kcnma1,"potassium large conductance calcium-activated channel, subfamily M, alpha member 1",14,,response to hypoxia,,,ISO,RGD:620715 ,J:155856 
+MGI:99923,Kcnma1,"potassium large conductance calcium-activated channel, subfamily M, alpha member 1",14,,response to hypoxia,,,ISO,Q12791 ,J:164563 
+MGI:96683,Kdr,kinase insert domain protein receptor,5,,response to hypoxia,,,ISO,RGD:2965 ,J:155856 
+MGI:104576,Lct,lactase,1,,response to hypoxia,,,ISO,RGD:620823 ,J:155856 
+MGI:1352502,Limd1,LIM domains containing 1,9,,response to hypoxia,,,IBA,PTN001198456 ,J:265628 
+MGI:1352502,Limd1,LIM domains containing 1,9,,response to hypoxia,,,ISO,Q9UGP4 ,J:164563 
+MGI:2137913,Loxl2,lysyl oxidase-like 2,14,,response to hypoxia,,,IDA,,J:184108 
+MGI:1346866,Map2k1,mitogen-activated protein kinase kinase 1,9,,negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway,,,ISO,RGD:70495 ,J:155856 
+MGI:96922,Mb,myoglobin,15,,response to hypoxia,,,IMP,MGI:2159004 ,J:95767 
+MGI:99918,Mecp2,methyl CpG binding protein 2,X,,response to hypoxia,,,IMP,MGI:2137311 ,J:130772 
+MGI:1914999,Mgarp,mitochondria localized glutamic acid rich protein,3,,cellular response to hypoxia,,,IDA,,J:150420 
+MGI:3618742,Mir199a-2,microRNA 199a-2,1,,cellular response to hypoxia,happens in cardiac muscle tissue,,IGI,MGI:101884 MGI:106918 MGI:2676890 ,J:203819 
+MGI:2676890,Mir214,microRNA 214,1,,cellular response to hypoxia,happens in cardiac muscle tissue,,IGI,MGI:101884 MGI:106918 MGI:3618742 ,J:203819 
+MGI:3629905,Mir668,microRNA 668,12,,cellular response to hypoxia,,,IDA,,J:271010 
+MGI:3718564,Mir874,microRNA 874,13,,cellular response to hypoxia,,,ISO,MIR874 ,J:206664 
+MGI:97009,Mmp2,matrix metallopeptidase 2,8,,response to hypoxia,,,IBA,PTN002565602 ,J:265628 
+MGI:97009,Mmp2,matrix metallopeptidase 2,8,,response to hypoxia,"happens in thoracic aorta,happens in smooth muscle cell",,IDA,,J:124454 
+MGI:97009,Mmp2,matrix metallopeptidase 2,8,,response to hypoxia,,,ISO,RGD:621316 ,J:155856 
+MGI:1928394,Mtor,mechanistic target of rapamycin kinase,4,,cellular response to hypoxia,,,IDA,,J:111744 
+MGI:97250,Myc,myelocytomatosis oncogene,15,,cellular response to hypoxia,,,ISO,P01106 ,J:164563 
+MGI:1915419,Ndnf,neuron-derived neurotrophic factor,6,,cellular response to hypoxia,,,ISO,Q8TB73 ,J:164563 
+MGI:97306,Nf1,neurofibromin 1,11,,response to hypoxia,happens in retina blood vessel|happens in cornea blood vessel,,IMP,MGI:1857444 ,J:108781 
+MGI:103296,Nfatc3,"nuclear factor of activated T cells, cytoplasmic, calcineurin dependent 3",8,,response to hypoxia,happens in pancreatico-duodenal artery,,IDA,,J:122579 
+MGI:108420,Nfe2l2,"nuclear factor, erythroid derived 2, like 2",2,,positive regulation of transcription from RNA polymerase II promoter in response to hypoxia,,,ISO,Q16236 ,J:164563 
+MGI:97352,Nkx3-1,NK3 homeobox 1,14,,cellular response to hypoxia,,,ISO,Q99801 ,J:164563 
+MGI:1925938,Nol3,nucleolar protein 3 (apoptosis repressor with CARD domain),8,,cellular response to hypoxia,,,ISO,RGD:708558 ,J:155856 
+MGI:1925938,Nol3,nucleolar protein 3 (apoptosis repressor with CARD domain),8,,negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway,,,ISO,RGD:708558 ,J:155856 
+MGI:1925938,Nol3,nucleolar protein 3 (apoptosis repressor with CARD domain),8,,response to hypoxia,happens in cardiac muscle cell,,IMP,,J:143120 
+MGI:2154441,Nop53,NOP53 ribosome biogenesis factor,7,,cellular response to hypoxia,,,ISO,Q9NZM5 ,J:164563 
+MGI:97361,Nos2,"nitric oxide synthase 2, inducible",11,,response to hypoxia,,,IDA,,J:85387 
+MGI:97363,Notch1,notch 1,2,,positive regulation of transcription from RNA polymerase II promoter in response to hypoxia,,,IDA,,J:183961 
+MGI:1101358,Npepps,aminopeptidase puromycin sensitive,11,,cellular response to hypoxia,,,ISO,P55786 ,J:164563 
+MGI:1352456,Nr4a2,"nuclear receptor subfamily 4, group A, member 2",2,,response to hypoxia,,,IMP,MGI:2157566 ,J:105253 
+MGI:1339639,Ogt,O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase),X,,negative regulation of cellular response to hypoxia,,,ISO,RGD:62060 ,J:155856 
+MGI:97438,Oprd1,"opioid receptor, delta 1",4,,cellular response to hypoxia,,,ISO,P41143 ,J:164563 
+MGI:2665170,P2rx2,"purinergic receptor P2X, ligand-gated ion channel, 2",5,,response to hypoxia,,,IMP,MGI:2687349 ,J:86890 
+MGI:1097160,P2rx3,"purinergic receptor P2X, ligand-gated ion channel, 3",2,,response to hypoxia,,,IMP,MGI:1934019 ,J:86890 
+MGI:97464,P4hb,"prolyl 4-hydroxylase, beta polypeptide",11,,cellular response to hypoxia,,,ISO,P07237 ,J:164563 
+MGI:1339975,Pak1,p21 (RAC1) activated kinase 1,7,,response to hypoxia,,,ISO,RGD:3250 ,J:155856 
+MGI:1926119,Pdk1,"pyruvate dehydrogenase kinase, isoenzyme 1",2,,hypoxia-inducible factor-1alpha signaling pathway,,,ISO,Q15118 ,J:164563 
+MGI:2384308,Pdk3,"pyruvate dehydrogenase kinase, isoenzyme 3",X,,hypoxia-inducible factor-1alpha signaling pathway,,,ISO,Q15120 ,J:164563 
+MGI:105095,Pgf,placental growth factor,12,,response to hypoxia,,,IBA,PTN000246442 ,J:265628 
+MGI:97555,Pgk1,phosphoglycerate kinase 1,X,,cellular response to hypoxia,,,ISO,P00558 ,J:164563 
+MGI:1346036,Pin1,protein (peptidyl-prolyl cis/trans isomerase) NIMA-interacting 1,9,,response to hypoxia,,,ISO,Q13526 ,J:164563 
+MGI:1916193,Pink1,PTEN induced putative kinase 1,4,,cellular response to hypoxia,,,IMP,,J:207460 
+MGI:1916193,Pink1,PTEN induced putative kinase 1,4,,cellular response to hypoxia,,,ISO,Q9BXM7 ,J:164563 
+MGI:1916193,Pink1,PTEN induced putative kinase 1,4,,negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway,happens in fibroblast|happens in primary neuron,,IMP,,J:207460 
+MGI:97610,Plat,"plasminogen activator, tissue",8,,response to hypoxia,"happens in thoracic aorta,happens in smooth muscle cell",,IMP,,J:124454 
+MGI:97611,Plau,"plasminogen activator, urokinase",14,,response to hypoxia,"happens in thoracic aorta,happens in smooth muscle cell",,IMP,,J:124454 
+MGI:892877,Pld2,phospholipase D2,11,,response to hypoxia,,,ISO,RGD:3350 ,J:155856 
+MGI:2387630,Plekhn1,"pleckstrin homology domain containing, family N member 1",4,,response to hypoxia,,,IBA,PTN002930314 ,J:265628 
+MGI:2387630,Plekhn1,"pleckstrin homology domain containing, family N member 1",4,,response to hypoxia,,,ISO,Q494U1 ,J:164563 
+MGI:109604,Plk3,polo like kinase 3,4,,positive regulation of proteasomal ubiquitin-dependent protein catabolic process involved in cellular response to hypoxia,,,ISO,Q9H4B4 ,J:164563 
+MGI:104662,Pml,promyelocytic leukemia,9,,response to hypoxia,,,IMP,MGI:2429949 ,J:111744 
+MGI:104662,Pml,promyelocytic leukemia,9,,response to hypoxia,,,ISO,P29590 ,J:164563 
+MGI:104740,Ppara,peroxisome proliferator activated receptor alpha,15,,response to hypoxia,,,ISO,RGD:3369 ,J:155856 
+MGI:101884,Ppard,peroxisome proliferator activator receptor delta,17,,cellular response to hypoxia,happens in cardiac muscle tissue,,IGI,MGI:106918 MGI:2676890 MGI:3618742 ,J:203819 
+MGI:97596,Prkcb,"protein kinase C, beta",7,,response to hypoxia,,PR:P68404-2,IDA,,J:149031 
+MGI:97596,Prkcb,"protein kinase C, beta",7,NOT,response to hypoxia,,PR:P68404-1,IDA,,J:149031 
+MGI:97599,Prkce,"protein kinase C, epsilon",17,,cellular response to hypoxia,"happens in lens epithelium,happens in lens epithelial cell",,IDA,,J:132507 
+MGI:1206587,Prl4a1,"prolactin family 4, subfamily a, member 1",13,,response to hypoxia,happens in placenta,,IMP,MGI:3513079 ,J:94464 
+MGI:894281,Prl8a2,"prolactin family 8, subfamily a, member 2",13,,response to hypoxia,,,IMP,MGI:3513194 ,J:117034 
+MGI:1316652,Prmt2,protein arginine N-methyltransferase 2,10,,response to hypoxia,,,IDA,,J:126896 
+MGI:109583,Pten,phosphatase and tensin homolog,19,,cellular response to hypoxia,,,IDA,,J:213269 
+MGI:1097156,Ptgis,prostaglandin I2 (prostacyclin) synthase,2,,cellular response to hypoxia,,,ISO,Q16647 ,J:164563 
+MGI:1097156,Ptgis,prostaglandin I2 (prostacyclin) synthase,2,,response to hypoxia,,,ISO,RGD:3438 ,J:155856 
+MGI:97830,Pygm,muscle glycogen phosphorylase,19,,response to hypoxia,,,ISO,RGD:3461 ,J:155856 
+MGI:97847,Raf1,v-raf-leukemia viral oncogene 1,6,,response to hypoxia,,,ISO,RGD:3531 ,J:155856 
+MGI:96522,Rbpj,recombination signal binding protein for immunoglobulin kappa J region,5,,positive regulation of transcription from RNA polymerase II promoter in response to hypoxia,,,ISO,Q06330 ,J:164563 
+MGI:104897,Rest,RE1-silencing transcription factor,5,,response to hypoxia,,,ISO,Q13127 ,J:164563 
+MGI:1913464,Rgcc,regulator of cell cycle,14,,cellular response to hypoxia,,,ISO,Q9H4X1 ,J:164563 
+MGI:107926,Rock2,Rho-associated coiled-coil containing protein kinase 2,12,,regulation of cellular response to hypoxia,happens in aortic endothelial cell,,IMP,,J:268013 
+MGI:104661,Rora,RAR-related orphan receptor alpha,9,,cellular response to hypoxia,,,ISO,P35398 ,J:164563 
+MGI:1915835,Rtn4,reticulon 4,11,,cellular response to hypoxia,,,IDA,,J:269555 
+MGI:1920420,Rwdd3,RWD domain containing 3,3,,positive regulation of hypoxia-inducible factor-1alpha signaling pathway,,,IMP,,J:210293 
+MGI:1920420,Rwdd3,RWD domain containing 3,3,,positive regulation of hypoxia-inducible factor-1alpha signaling pathway,,,ISO,Q9Y3V2 ,J:164563 
+MGI:99659,Ryr1,"ryanodine receptor 1, skeletal muscle",7,,response to hypoxia,,,ISO,P21817 ,J:164563 
+MGI:99685,Ryr2,"ryanodine receptor 2, cardiac",13,,response to hypoxia,,,IDA,,J:145985 
+MGI:2135958,Scap,SREBF chaperone,9,,response to hypoxia,happens in liver,,IMP,MGI:2148743 MGI:2176073 ,J:128622 
+MGI:98248,Scn2a,"sodium channel, voltage-gated, type II, alpha",2,,cellular response to hypoxia,,,ISO,RGD:3632 ,J:155856 
+MGI:1914175,Sdhd,"succinate dehydrogenase complex, subunit D, integral membrane protein",9,,cellular response to hypoxia,happens in type I cell of carotid body,,IMP,MGI:3526521 ,J:95252 
+MGI:2135607,Sirt1,sirtuin 1,10,,cellular response to hypoxia,,,ISO,Q96EB6 ,J:164563 
+MGI:1927664,Sirt2,sirtuin 2,7,,cellular response to hypoxia,,,ISO,Q8IXJ6 ,J:164563 
+MGI:1927664,Sirt2,sirtuin 2,7,,negative regulation of transcription from RNA polymerase II promoter in response to hypoxia,,,ISO,Q8IXJ6 ,J:164563 
+MGI:1927664,Sirt2,sirtuin 2,7,,positive regulation of proteasomal ubiquitin-dependent protein catabolic process involved in cellular response to hypoxia,,,ISO,Q8IXJ6 ,J:164563 
+MGI:95758,Slc2a4,"solute carrier family 2 (facilitated glucose transporter), member 4",11,,cellular response to hypoxia,,,ISO,RGD:2711 ,J:155856 
+MGI:1860103,Slc2a8,"solute carrier family 2, (facilitated glucose transporter), member 8",2,,response to hypoxia,,,IDA,,J:72589 
+MGI:107956,Slc8a1,"solute carrier family 8 (sodium/calcium exchanger), member 1",17,,response to hypoxia,,,ISO,RGD:3717 ,J:155856 
+MGI:107976,Slc8a3,"solute carrier family 8 (sodium/calcium exchanger), member 3",12,,cellular response to hypoxia,,,IDA,,J:225481 
+MGI:102462,Slc9a1,"solute carrier family 9 (sodium/hydrogen exchanger), member 1",4,,cellular response to hypoxia,,,ISO,RGD:3718 ,J:155856 
+MGI:1345279,Slc11a2,"solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2",15,,response to hypoxia,,,IBA,PTN000194457 ,J:265628 
+MGI:1201674,Smad3,SMAD family member 3,9,,response to hypoxia,,,ISO,P84022 ,J:164563 
+MGI:894293,Smad4,SMAD family member 4,18,,response to hypoxia,,,ISO,Q13485 ,J:164563 
+MGI:103181,Sod3,"superoxide dismutase 3, extracellular",5,,response to hypoxia,,,IMP,MGI:2652386 ,J:90918 
+MGI:98366,Sox4,SRY (sex determining region Y)-box 4,13,,response to hypoxia,,,ISO,RGD:1309488 ,J:155856 
+MGI:2684909,Stox1,storkhead box 1,10,,regulation of transcription from RNA polymerase II promoter in response to hypoxia,,,ISO,Q6ZVD7 ,J:164563 
+MGI:1891731,Stub1,STIP1 homology and U-Box containing protein 1,17,,cellular response to hypoxia,,,ISO,RGD:1306167 ,J:155856 
+MGI:1099440,Suv39h1,suppressor of variegation 3-9 1,X,,cellular response to hypoxia,,,ISO,O43463 ,J:173973 
+MGI:1890396,Suv39h2,suppressor of variegation 3-9 2,2,,cellular response to hypoxia,,,ISO,Q9H5I1 ,J:173973 
+MGI:1341163,Tacc3,"transforming, acidic coiled-coil containing protein 3",5,,response to hypoxia,,,IDA,,J:65378 
+MGI:1351652,Tbl2,transducin (beta)-like 2,5,,cellular response to hypoxia,,,ISO,Q9Y4P3 ,J:164563 
+MGI:98664,Tek,TEK receptor tyrosine kinase,4,,response to hypoxia,,,ISO,RGD:620980 ,J:155856 
+MGI:1202709,Tert,telomerase reverse transcriptase,13,,cellular response to hypoxia,,,ISO,O14746 ,J:164563 
+MGI:98726,Tgfb2,"transforming growth factor, beta 2",1,,response to hypoxia,,,ISO,P61812 ,J:164563 
+MGI:98727,Tgfb3,"transforming growth factor, beta 3",12,,detection of hypoxia,,,ISO,P10600 ,J:164563 
+MGI:98727,Tgfb3,"transforming growth factor, beta 3",12,,response to hypoxia,,,ISO,P10600 ,J:164563 
+MGI:98735,Th,tyrosine hydroxylase,7,,response to hypoxia,,,IBA,PTN000158541 ,J:265628 
+MGI:98735,Th,tyrosine hydroxylase,7,,response to hypoxia,,,ISO,RGD:3853 ,J:155856 
+MGI:98735,Th,tyrosine hydroxylase,7,,response to hypoxia,,,ISO,P07101 ,J:164563 
+MGI:2442752,Tigar,Trp53 induced glycolysis regulatory phosphatase,6,,cellular response to hypoxia,,,ISO,Q9NQ88 ,J:164563 
+MGI:2139220,Tm9sf4,transmembrane 9 superfamily protein member 4,2,,response to hypoxia,,,ISO,Q92544 ,J:164563 
+MGI:99682,Tmbim6,transmembrane BAX inhibitor motif containing 6,15,,negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway,,,ISO,P55061 ,J:164563 
+MGI:98834,Trp53,transformation related protein 53,11,,intrinsic apoptotic signaling pathway in response to hypoxia,happens in cardiac muscle cell,,IMP,,J:167245 
+MGI:98834,Trp53,transformation related protein 53,11,,positive regulation of transcription from RNA polymerase II promoter in response to hypoxia,"regulates a function/process that happens in cardiac muscle cell,regulates a function/process that uses Tigar,happens in cardiac muscle cell",,IMP,,J:167245 
+MGI:102548,Tsc2,TSC complex subunit 2,17,,response to hypoxia,,,IMP,,J:131386 
+MGI:98872,Twist1,twist basic helix-loop-helix transcription factor 1,12,,cellular response to hypoxia,,,IMP,,J:175157 
+MGI:98872,Twist1,twist basic helix-loop-helix transcription factor 1,12,,cellular response to hypoxia,,,ISO,Q15672 ,J:164563 
+MGI:1860276,Ubqln1,ubiquilin 1,13,,cellular response to hypoxia,,,ISO,Q9UMX0 ,J:164563 
+MGI:109354,Ucp2,"uncoupling protein 2 (mitochondrial, proton carrier)",7,,response to hypoxia,,,ISO,P55851 ,J:164563 
+MGI:1099787,Ucp3,"uncoupling protein 3 (mitochondrial, proton carrier)",7,,response to hypoxia,,,ISO,RGD:3933 ,J:155856 
+MGI:99542,Usf1,upstream transcription factor 1,1,,response to hypoxia,,,ISO,P22415 ,J:164563 
+MGI:1918722,Usp19,ubiquitin specific peptidase 19,9,,regulation of cellular response to hypoxia,,,ISO,O94966 ,J:164563 
+MGI:2177651,Vasn,vasorin,16,,cellular response to hypoxia,happens in liver|happens in testis,,IMP,MGI:5140849 ,J:173568 
+MGI:103178,Vegfa,vascular endothelial growth factor A,17,,cellular response to hypoxia,,,ISO,P15691 P15692 ,J:58706 
+MGI:103178,Vegfa,vascular endothelial growth factor A,17,,positive regulation of transcription from RNA polymerase II promoter in response to hypoxia,,,ISO,P15692 ,J:164563 
+MGI:103178,Vegfa,vascular endothelial growth factor A,17,,response to hypoxia,,,IBA,PTN000246442 ,J:265628 
+MGI:103178,Vegfa,vascular endothelial growth factor A,17,,response to hypoxia,,,ISO,RGD:619991 ,J:155856 
+MGI:103178,Vegfa,vascular endothelial growth factor A,17,,response to hypoxia,,,ISO,P15692 ,J:164563 
+MGI:106199,Vegfb,vascular endothelial growth factor B,19,,response to hypoxia,,,IBA,PTN000246442 ,J:265628 
+MGI:109124,Vegfc,vascular endothelial growth factor C,8,,response to hypoxia,,,IBA,PTN000246442 ,J:265628 
+MGI:108037,Vegfd,vascular endothelial growth factor D,X,,response to hypoxia,,,IBA,PTN000246442 ,J:265628 
+MGI:103223,Vhl,von Hippel-Lindau tumor suppressor,6,,negative regulation of hypoxia-inducible factor-1alpha signaling pathway,regulates a function/process that happens in pancreas|regulates a function/process that happens in pancreas|regulates a function/process that happens in epithelial cell of pancreas|happens in pancreas|happens in pancreas|happens in epithelial cell of pancreas,,IMP,MGI:2136645 MGI:3608931 ,J:218695 
+MGI:103223,Vhl,von Hippel-Lindau tumor suppressor,6,,negative regulation of transcription from RNA polymerase II promoter in response to hypoxia,,,ISO,P40337 ,J:164563 
+MGI:103223,Vhl,von Hippel-Lindau tumor suppressor,6,,response to hypoxia,,,ISO,RGD:3960 ,J:155856 
+MGI:98935,Vldlr,very low density lipoprotein receptor,19,,cellular response to hypoxia,,,ISO,RGD:3963 ,J:155856 
+MGI:1915086,Wdr83,WD repeat domain containing 83,8,,response to hypoxia,,,IMP,MGI:4367006 ,J:237546 
+MGI:2141920,Wtip,WT1-interacting protein,7,,response to hypoxia,,,IBA,PTN001198456 ,J:265628 
+MGI:2141920,Wtip,WT1-interacting protein,7,,response to hypoxia,,,ISO,A6NIX2 ,J:164563 
+MGI:107946,Zfp36l1,"zinc finger protein 36, C3H type-like 1",12,,cellular response to hypoxia,,,ISO,Q07352 ,J:164563 
